@@ -2,7 +2,6 @@
   "name": "subchain",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "workspaces": {
     "packages": [
       "packages/snfoundry",
